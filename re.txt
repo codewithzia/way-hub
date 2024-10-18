@@ -1,0 +1,22 @@
+Invoice Number:  invoice_no
+Company Name: company_name
+Bank Full Address:bank_full_address
+House / Holding Number:holdingNumber
+Street No:streetNo
+State:state
+City:city
+Country:country
+Phone No:phoneNo
+
+Account / Beneficiary Name:bank_AC_B_name
+Beneficiary Full Address:bank_address
+House / Holding Number:BholdingNumber
+Street No:bStreerNo
+State:bState
+City:bCity
+Country:bCountry
+Phone No:bPhoneNo
+
+SWIFT Code:
+Account Number:
+IBAN:
